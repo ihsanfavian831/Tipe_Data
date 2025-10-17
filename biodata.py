@@ -1,0 +1,8 @@
+print("<=======================>")
+print("   Biodata Siswa")
+print("<=======================>")
+print("Nama\t: Muhammad Ihsan Favian")
+print("NIS\t: 123456789")
+print("Jurusan\t: Rekayasa Perangkat Lunak")
+print("Umur\t: 16 tahun")
+print("Hobi\t: Bermain Basket")
